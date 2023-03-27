@@ -30,6 +30,7 @@ This plot tracks the number of drug/narcotic in San Francisco related to the are
 all the areas of San Francisco are suffering from the drug/narcotic crime, in the other words, drug/narcotic is 
 a really pervasive crime in San Francisco which the police need to focus on. 
 <br>
+<br>
 According to the heatmap, 'DRUG/NARCOTIC' crimes are widespread throughout San Francisco. However, there are some areas where no criminal activity is recorded, mainly in parks, gardens, and nature preserves. This suggests that these locations are less likely to be targeted by drug-related criminal activity, possibly due to their more secluded nature making it more difficult for such activities to go unnoticed. Overall, the heatmap highlights areas that may require additional attention from law enforcement to further combat drug-related crimes.
 
 <iframe src="{{page.folium}}" width="100%" height="600px" frameborder="0">
