@@ -16,8 +16,6 @@ The information of the crime recorded includes category, exact time, location an
 ## Data analysis and visualization
 
 <figure>
-<center>
     {% include bokeh.html %}
     <figcaption>Figure 3 - Interactive chart of individual crime from 2003 to 2018.</figcaption>
-</center>
 </figure>
