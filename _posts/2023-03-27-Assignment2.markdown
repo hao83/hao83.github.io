@@ -24,7 +24,7 @@ This plot tracks the number of drug/narcotic in San Francisco from 2003 to 2017,
 of drug/narcotic has a significant drop from 2010.
 ![drug/narcotic from 2003 to 2017]({{site.baseurl}}/images/DRUG1.png){:width="100%"}
 
-* Hotspots of Drug/narcotic crime
+* <b>Hotspots of Drug/narcotic crime</b>
 
 This plot tracks the number of drug/narcotic in San Francisco related to the area. This heatmaps reveals that
 all the areas of San Francisco are suffering from the drug/narcotic crime, in the other words, drug/narcotic is 
@@ -34,7 +34,7 @@ a really pervasive crime in San Francisco which the police need to focus on.
     Sorry, your browser doesn't support iframes.
 </iframe>
 
-* Compared with other type of crime.
+* <b>Compared with other type of crime.</b>
 
 This plot is an interactive plots which allows people to compare the trend of drug/narcotic with other type of crimes in San Francisco.
 Compared with other type of crimes, we can find that the drug/narcotic issues have been well solved as the trend of
