@@ -18,9 +18,6 @@ The information of the crime recorded includes category, exact time, location an
 
 {% include bokeh.html %}
 
-
-<iframe src="{{page.bokeh}}" width="100%" height="600px" frameborder="0">
-    Sorry, your browser doesn't support iframes.
-</iframe>
-
-![sample post]({{site.baseurl}}/assets/bokeh.html)
+<center>
+    {% include bokeh.html %}
+</center>
