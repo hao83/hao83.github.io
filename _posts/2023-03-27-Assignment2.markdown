@@ -26,7 +26,9 @@ of drug/narcotic has a significant drop from 2010.
 
 * Hotspots of Drug/narcotic crime
 
-This plot tracks the number of drug/narcotic in San Francisco related to the area. This heatmaps 
+This plot tracks the number of drug/narcotic in San Francisco related to the area. This heatmaps reveals that
+all the areas of San Francisco are suffering from the drug/narcotic crime, in the other words, drug/narcotic is 
+a really pervasive crime in San Francisco which the police need to focus on. 
 
 <iframe src="{{page.folium}}" width="100%" height="600px" frameborder="0">
     Sorry, your browser doesn't support iframes.
