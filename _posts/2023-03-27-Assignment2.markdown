@@ -44,3 +44,7 @@ drug/narcotic rates has a significant drops while other type of crimes rates hav
 <iframe src="{{page.bokeh}}" width="100%" height="600px" frameborder="0">
     Sorry, your browser doesn't support iframes.
 </iframe>
+
+## Conclusion
+
+
