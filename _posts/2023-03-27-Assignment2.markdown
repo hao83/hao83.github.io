@@ -10,6 +10,7 @@ categories: jekyll update
 ## The data
 
 This article is based on the dataset: <a href="https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-Historical-2003/tmnf-yvry">
-
+This dataset has the information about the crime incidents from the San Francisco from 2003 to 2018, and the scape of this dataset is more than two millions.
+The information of the crime recorded includes category, exact time, location and so on.  
 
 ## Data analysis and visualization
