@@ -10,7 +10,6 @@ layout: home
 
 <header>
     <h1> A statistical insight into drug/narcotic crimes in San Francisco in the years 2003 to 2017.</h1>
-    <p> By: Anders Thuesen (s183926), Anne Desler (s194333), Linea Bartholdy (s185231)</p>
     <p> Date: 27-03-2023 </p>
 </header>
 
