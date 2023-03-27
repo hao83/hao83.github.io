@@ -22,8 +22,11 @@ This plot tracks the number of drug/narcotic in San Francisco from 2003 to 2017,
 of drug/narcotic has a significant drop from 2010.
 
 {% include bokeh.html %}
+
 <iframe src="{{page.bokeh}}" width="100%" height="600px" frameborder="0">
     Sorry, your browser doesn't support iframes.
 </iframe>
+{% include bokeh.html %}
+
 ![sample post]({{site.baseurl}}/asset/bokeh.html)
-111
+
