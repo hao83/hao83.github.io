@@ -21,7 +21,7 @@ the number of drug/narcotic crimes from 2003 to 2017.
 
 This plot tracks the number of drug/narcotic in San Francisco from 2003 to 2017, it shows that the number 
 of drug/narcotic has a significant drop from 2010.
-![drug/narcotic from 2003 to 2017]({{site.baseurl}}/images/DRUG.png){:width="100%"}
+![drug/narcotic from 2003 to 2017]({{site.baseurl}}/images/DRUG1.png){:width="100%"}
 
 <iframe src="{{page.bokeh}}" width="100%" height="600px" frameborder="0">
     Sorry, your browser doesn't support iframes.
