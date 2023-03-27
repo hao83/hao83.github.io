@@ -34,6 +34,13 @@ a really pervasive crime in San Francisco which the police need to focus on.
     Sorry, your browser doesn't support iframes.
 </iframe>
 
+<h1>Compared with other type of crime.</h1>
+
+This plot is an interactive plots which allows people to compare the trend of drug/narcotic with other type of crimes in San Francisco.
+Compared with other type of crimes, we can find that the drug/narcotic issues have been well solved as the trend of
+drug/narcotic rates has a significant drops while other type of crimes rates have the upward trend or remain stable.
+
+
 <iframe src="{{page.bokeh}}" width="100%" height="600px" frameborder="0">
     Sorry, your browser doesn't support iframes.
 </iframe>
