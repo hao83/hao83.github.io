@@ -14,7 +14,10 @@ This dataset has the information about the crime incidents from the San Francisc
 The information of the crime recorded includes category, exact time, location and so on.  
 
 ## Data analysis and visualization
-11111111111
+
+
+{% include bokeh.html %}
+
 
 <iframe src="{{page.bokeh}}" width="100%" height="600px" frameborder="0">
     Sorry, your browser doesn't support iframes.
