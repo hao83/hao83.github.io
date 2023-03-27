@@ -3,7 +3,7 @@ layout: post
 title:  "Assignment2."
 date:   2023-03-27 08:35:38 +0530
 categories: jekyll update
-bokeh: /assets/bokeh.html
+bokeh: /assets/bokeh1.html
 folium: /assets/folium.html
 ---
 
@@ -43,7 +43,7 @@ Compared with other type of crimes, we can find that the drug/narcotic issues ha
 drug/narcotic rates has a significant drops since 2009 while other type of crimes rates have the upward trend or remain stable.
 
 
-<iframe src="{{page.bokeh1}}" width="100%" height="600px" frameborder="0">
+<iframe src="{{page.bokeh}}" width="100%" height="600px" frameborder="0">
     Sorry, your browser doesn't support iframes.
 </iframe>
 
