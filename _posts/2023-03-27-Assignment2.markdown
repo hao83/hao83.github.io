@@ -3,6 +3,7 @@ layout: post
 title:  "Assignment2."
 date:   2023-03-27 08:35:38 +0530
 categories: jekyll update
+bokeh: /assets/bokeh.html
 ---
 
 ## A significant drop in Drug/narcotic crime in San Francisco from 2003 to 2017.
@@ -26,7 +27,10 @@ of drug/narcotic has a significant drop from 2010.
     Sorry, your browser doesn't support iframes.
 </iframe>
 
-<iframe src="{https://baidu.com}" width="100%" height="600px" frameborder="0">
+<iframe src="{{page.bokeh}}" width="100%" height="600px" frameborder="0">
     Sorry, your browser doesn't support iframes.
 </iframe>
 
+<iframe src="{https://baidu.com}" width="100%" height="600px" frameborder="0">
+    Sorry, your browser doesn't support iframes.
+</iframe>
