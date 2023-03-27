@@ -1,16 +1,10 @@
 ---
 layout: post
-title:  "assigment2"
+title:  "A statistical insight into drug/narcotic crimes in San Francisco in the years 2003 to 2017."
 date:   2023-03-27 08:35:38 +0530
 categories: jekyll update
 ---
 
-Jekyll also offers powerful support for code snippets:
+## A statistical insight into drug/narcotic crimes in San Francisco in the years 2003 to 2017.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+## The data
