@@ -25,5 +25,4 @@ of drug/narcotic has a significant drop from 2010.
 <iframe src="{{{site.baseurl}}/assets/bokeh.html}" width="100%" height="600px" frameborder="0">
     Sorry, your browser doesn't support iframes.
 </iframe>
-{% include bokeh.html %}
 
