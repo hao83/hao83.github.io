@@ -18,7 +18,7 @@ the number of drug/narcotic crimes from 2003 to 2017.
 
 <h2> Data analysis and visualization</h2>
 
-* The timeseries of the number of drug/narcotic from 2003 to 2017.
+* <b>The timeseries of the number of drug/narcotic from 2003 to 2017.</b>
 
 This plot tracks the number of drug/narcotic in San Francisco from 2003 to 2017, it shows that the number 
 of drug/narcotic has a significant drop from 2010.
