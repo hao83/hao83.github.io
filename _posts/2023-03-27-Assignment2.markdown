@@ -4,6 +4,7 @@ title:  "Assignment2."
 date:   2023-03-27 08:35:38 +0530
 categories: jekyll update
 bokeh: /assets/bokeh.html
+folium: /assets/folium.html
 ---
 
 ## A significant drop in Drug/narcotic crime in San Francisco from 2003 to 2017.
@@ -22,6 +23,14 @@ the number of drug/narcotic crimes from 2003 to 2017.
 This plot tracks the number of drug/narcotic in San Francisco from 2003 to 2017, it shows that the number 
 of drug/narcotic has a significant drop from 2010.
 ![drug/narcotic from 2003 to 2017]({{site.baseurl}}/images/DRUG1.png){:width="100%"}
+
+* Hotspots of Drug/narcotic crime
+
+This plot tracks the number of drug/narcotic in San Francisco related to the area. This heatmaps 
+
+<iframe src="{{page.folium}}" width="100%" height="600px" frameborder="0">
+    Sorry, your browser doesn't support iframes.
+</iframe>
 
 <iframe src="{{page.bokeh}}" width="100%" height="600px" frameborder="0">
     Sorry, your browser doesn't support iframes.
