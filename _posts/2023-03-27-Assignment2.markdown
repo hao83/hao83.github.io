@@ -16,5 +16,3 @@ the number of drug/narcotic crimes from 2003 to 2018.
 
 ## Data analysis and visualization
 
-
-{% include bokeh.html %}
