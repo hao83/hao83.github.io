@@ -17,7 +17,3 @@ The information of the crime recorded includes category, exact time, location an
 
 
 {% include bokeh.html %}
-
-<center>
-    {% include bokeh.html %}
-</center>
