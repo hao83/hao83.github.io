@@ -26,8 +26,14 @@ of drug/narcotic has a significant drop from 2010.
 <iframe src="{https://hao83.github.io/assets/bokeh.html}" width="100%" height="600px" frameborder="0">
     Sorry, your browser doesn't support iframes.
 </iframe>
+11111
 
 <iframe src="{{page.bokeh}}" width="100%" height="600px" frameborder="0">
+    Sorry, your browser doesn't support iframes.
+</iframe>
+1111111111
+
+<iframe src="{{{site.baseurl}}/assets/bokeh.html}" width="100%" height="600px" frameborder="0">
     Sorry, your browser doesn't support iframes.
 </iframe>
 
